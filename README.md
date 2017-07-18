@@ -1,2 +1,2 @@
-# D-
-Captial d colon
+# D;
+Captial d semicolon
